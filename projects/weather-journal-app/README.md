@@ -3,8 +3,16 @@
 ## Overview
 This project requires you to create an asynchronous web app that uses Web API and user data to dynamically update the UI. 
 
-## Instructions
-This will require modifying the `server.js` file and the `website/app.js` file. You can see `index.html` for element references, and once you are finished with the project steps, you can use `style.css` to style your application to customized perfection.
+## Table of Contents
+* HTML and CSS mostly from Udacity's startup project, and I did some changes.
+* Modify server.js and app.js file.
+* Install Node and Express Environment and Project Dependencies: cors, body-parser.
+* Create API credentials on OpenWeatherMap.
+* Setting APIs and Routes, Dynamic UI.
 
-## Extras
-If you are interested in testing your code as you go, you can use `tests.js` as a template for writing and running some basic tests for your code.
+## Documents I have referenced
+
+* https://openweathermap.org/api
+* https://getbootstrap.com/
+
+**© Udacity - Modified By DatLT53**
